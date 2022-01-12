@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+domain: metainfra.lt
+url: https://metainfra.lt
+name: Metainfra
+title: Metainfra
+description: IT consulting services
+github:
+  is_project_page: false
